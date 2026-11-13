@@ -1,11 +1,3 @@
-luffy::cdocdo
-flyingdutchman::cdocdo
-chudmaxx::cdocdo
-unc::cdocdo
-jimmy::cdocdo
-donjulio::cdocdo
-blackbeard::cdocdo
-davyjones::cdocdo
 jermin::cdocdo
 yinky::cdocdo
 dontdelete::cdocdo
